@@ -3,7 +3,7 @@
 //
 
 //Description: D Flip-flop
-module DFF_Register (
+module D_FlipFLop (
     input           clk,  // Clock signal
     input           d_i,  // Data input
     output          q_o   // Register output
