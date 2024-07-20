@@ -3,5 +3,6 @@
 Work in Progress
 
 This repository contains the system-verilog design code for the following projects:
-- D Flip-flop
-- JK Flip-flop
+- D Flip-Flop
+- JK Flip-Flop designed using D Flip-FLop
+- SR Flip-Flop designed using D Flip-FLop
